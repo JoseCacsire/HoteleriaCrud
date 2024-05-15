@@ -1,0 +1,58 @@
+﻿@model BD_HOTELERIA.Models.Servicio
+
+@{
+    ViewData["Title"] = "ServicioDetalles";
+}
+
+<h1>Servicio Detalles</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            ID SERVICIO : 
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdServicio)
+        </dd>
+        <dt class = "col-sm-4">
+            ELIMINADO : 
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Eliminado)
+        </dd>
+        <dt class = "col-sm-4">
+            TIPO : 
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdTipoServicioNavigation.NombreServicio)
+        </dd>
+        <dt class = "col-sm-4">
+            DESCRIPCION :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-4">
+            PRECIO :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+    </dl>
+    <div class="row">
+        <div class="form-group col-12">
+            <div class="row">
+                <div class="col-4">
+                    <a asp-action="ServicioListado" class="btn btn-outline-secondary">Regresar</a>
+                </div>
+                <div class="col-8">
+                    <a asp-action="ServicioEditar" asp-route-id="@Model.IdServicio" class="btn btn-warning">
+                        <strong>Editar</strong> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

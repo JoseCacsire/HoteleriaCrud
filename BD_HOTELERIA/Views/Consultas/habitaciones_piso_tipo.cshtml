@@ -1,0 +1,83 @@
+﻿@model IEnumerable<BD_HOTELERIA.Models.habitaciones_piso_tipo>
+
+@{
+    ViewData["Title"] = "habitaciones_piso_tipo";
+}
+
+<h2 class="mt-5">TIPOS DE HABITACION POR PISO</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="row py-3 text-left">
+        <div class="col-md-3 d-flex align-items-center justify-content-start">
+            Seleccione una Categoria : 
+        </div>
+        <div class="col-md-2 d-flex align-items-center justify-content-center">
+            @Html.DropDownList("idTipoHabitacion",(SelectList)ViewBag.LISTA_TIPOHABITACIONES, new {@class="form-control"})
+        </div>
+        <div class="col-md-2 d-flex align-items-center justify-content-start">
+            Seleccione un Piso : 
+        </div>
+        <div class="col-md-2 d-flex align-items-center justify-content-center">
+            @Html.DropDownList("piso",(SelectList)ViewBag.PISOS, new {@class="form-control"})
+        </div>
+        <div class="col-md-3 d-flex align-items-center justify-content-end">
+            <button type="submit" class="btn btn-primary">
+                Consultar
+            </button>
+        </div>
+    </div>
+}
+<table class="table">
+    <thead class="bg-secondary">
+        <style>th{color:white}</style>
+        <tr>
+            <th>
+                ID 
+            </th>
+            <th>
+                N° HABITACION
+            </th>
+            <th>
+                DESCRIPCION
+            </th>
+            <th>
+                HORAS 
+            </th>
+            <th>
+                DIA
+            </th>
+            <th>
+                ESTADO
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.idHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numeroHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Horas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.estado)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="alert alert-warning">
+    Cantidad de Registros : @ViewBag.TOTAL
+</div>

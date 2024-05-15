@@ -1,0 +1,76 @@
+﻿@model IPagedList<Servicio>
+
+@{
+    ViewData["Title"] = "ServicioListado";
+}
+
+<div class="row">
+    <div class="col-6 text-left">
+        <h2 class="my-4 d-block"> SERVICIOS </h2>
+    </div>
+    <div class="col-6 d-flex align-items-end justify-content-end">
+        <a asp-action="ServicioGrabar" class="btn btn-primary mb-3">
+            <i class="fa-solid fa-plus"></i> Agregar
+        </a> 
+    </div>
+</div>
+<table class="table table-responsive w-100 d-block d-md-table">
+    <thead class="bg-secondary">
+        <tr>
+            <style> th{color:white}</style>
+            <th>
+                ID
+            </th>
+            <th>
+                TIPO 
+            </th>
+            <th>
+                DESCRIPCION
+            </th>
+            <th>
+                PRECIO
+            </th>
+            <th>
+                ACCIONES
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdServicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTipoServicioNavigation.NombreServicio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                S/. @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            
+            <td>
+                <a asp-action="ServicioEditar" asp-route-id="@item.IdServicio" class="btn btn-warning m-1">
+                    <i class="fa-solid fa-pen-to-square"></i> EDITAR
+                </a> 
+                <a asp-action="ServicioDetalles" asp-route-id="@item.IdServicio" class="btn btn-info m-1">
+                    <i class="fa-solid fa-circle-info"></i> INFORMACION
+                </a> 
+                <a asp-action="ServicioEliminar" asp-route-id="@item.IdServicio" class="btn btn-danger m-1">
+                    <i class="fa-solid fa-trash"></i> ELIMINAR
+                </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@Html.PagedListPager(Model, page => 
+Url.Action("ServicioListado",new {page}), new PagedListRenderOptions{
+    PageClasses = new string[] { "page-link" },
+    UlElementClasses = new string[] { "pagination justify-content-center" },
+    LiElementClasses = new string[] { "page-item" },
+    MaximumPageNumbersToDisplay = 15
+})

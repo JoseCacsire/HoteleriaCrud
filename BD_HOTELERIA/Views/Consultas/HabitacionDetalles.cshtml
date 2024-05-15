@@ -1,0 +1,73 @@
+﻿@model BD_HOTELERIA.Models.Habitacion
+
+@{
+    ViewData["Title"] = "HabitacionDetalles";
+}
+
+<h1>Habitacion Detalles</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            Numero de Habitacion :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.NumeroHabitacion)
+        </dd>
+        <dt class = "col-sm-4">
+            Piso :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Piso)
+        </dd>
+        <dt class = "col-sm-4">
+            Descripcion :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-4">
+            Precio de 8 Horas :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Precio8Horas)
+        </dd>
+        <dt class = "col-sm-4">
+            Precio por Dia :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.PrecioDia)
+        </dd>
+        <dt class = "col-sm-4">
+            Estado :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+        <dt class = "col-sm-4">
+            Eliminado :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Eliminado)
+        </dd>
+        <dt class = "col-sm-4">
+            Tipo de Habitacion :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdTipoHabitacion)
+        </dd class>
+    </dl>
+
+    <div class="row">
+        <div class="form-group col-12">
+            <div class="row">
+                <div class="col-4">
+                    <a asp-action="usuario_reservaciones" class="btn btn-outline-secondary">Regresar</a>
+                </div>
+                <div class="col-8">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

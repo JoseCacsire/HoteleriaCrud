@@ -1,0 +1,87 @@
+﻿@model IEnumerable<BD_HOTELERIA.Models.servicio_por_gastos>
+
+@{
+    ViewData["Title"] = "servicio_gastos";
+}
+
+<h2 class="mt-5">SERVICIOS CONSUMIDOS</h2>
+
+@using (Html.BeginForm())
+{
+        <div class="row py-3 text-left">
+            <div class="col-md-4 d-flex align-items-center justify-content-start">
+                Seleccione un Cliente : 
+            </div>
+            <div class="col-md-4 d-flex align-items-center justify-content-center">
+            @Html.DropDownList("idServicio",(SelectList)ViewBag.LISTA_SERVICIOS, new {@class="form-control"})
+            </div>
+            <div class="col-md-4 d-flex align-items-center justify-content-end">
+                <button type="submit" class="btn btn-primary">
+                    Consultar
+                </button>
+            </div>
+        </div>
+}
+<table class="table">
+    <thead class="bg-secondary">
+        <style>th{color:white}</style>
+        <tr>
+            <th>
+                Nombre
+            </th>
+            <th>
+                Apellido
+            </th>
+            <th>
+                N° Habitacion
+            </th>
+            <th>
+                Piso
+            </th>
+            <th>
+                Fecha
+            </th>
+            <th>
+                Total
+            </th>
+            <th>
+                Info
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.apellidoPadre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numeroHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.piso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.total)
+            </td>
+            <td>
+                <a asp-action="UsuarioDetalles" asp-route-id="@item.idUsuario" class="btn btn-info m-1">
+                    <i class="fa-solid fa-circle-info"></i> Ver Cliente
+                </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<div class="alert alert-warning">
+    Cantidad de Registros : @ViewBag.TOTAL
+</div>
+<div class="alert alert-info">
+    Suma Acumulada : @ViewBag.SUMAPRECIOS
+</div>

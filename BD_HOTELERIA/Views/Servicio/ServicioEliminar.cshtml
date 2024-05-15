@@ -1,0 +1,51 @@
+﻿@model BD_HOTELERIA.Models.Servicio
+
+@{
+    ViewData["Title"] = "ServicioEliminar";
+}
+
+<h1>Servicio Eliminar</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            ID SERVICIO : 
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdServicio)
+        </dd>
+        <dt class = "col-sm-4">
+            TIPO : 
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdTipoServicioNavigation.NombreServicio)
+        </dd>
+        <dt class = "col-sm-4">
+            DESCRIPCION :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Descripcion)
+        </dd>
+        <dt class = "col-sm-4">
+            PRECIO :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+    </dl>
+    
+    <form asp-action="ServicioEliminar" class="row">
+        <input type="hidden" asp-for="IdServicio" />
+        <div class="form-group col-12">
+            <div class="row">
+                <div class="col-4">
+                    <a asp-action="ServicioListado" class="btn btn-outline-secondary">Regresar</a>
+                </div>
+                <div class="col-8">
+                    <input type="submit" value="Eliminar" class="btn btn-danger" />
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

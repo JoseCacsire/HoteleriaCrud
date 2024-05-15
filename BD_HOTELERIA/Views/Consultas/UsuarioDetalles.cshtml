@@ -1,0 +1,78 @@
+﻿@model BD_HOTELERIA.Models.Usuario
+
+@{
+    ViewData["Title"] = "UsuarioDetalles";
+}
+
+<h1>Cliente Detalles</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            Nombre :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt class = "col-sm-4">
+            Apellido Paterno :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.ApellidoPadre)
+        </dd>
+        <dt class = "col-sm-4">
+            Apellido Materno :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.ApellidoMadre)
+        </dd>
+        <dt class = "col-sm-4">
+            Pais : 
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdPaisNavigation.NombrePais)
+        </dd>
+        <dt class = "col-sm-4">
+            Direccion :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Direccion)
+        </dd>
+        <dt class = "col-sm-4">
+            Telefono :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Telefono)
+        </dd>
+        <dt class = "col-sm-4">
+            Correo :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Correo)
+        </dd>
+        <dt class = "col-sm-4">
+            Contraseña :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Contrasena)
+        </dd>
+        <dt class = "col-sm-4">
+            Eliminado :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Eliminado)
+        </dd>
+    </dl>
+    <div class="row">
+        <div class="form-group col-12">
+            <div class="row">
+                <div class="col-4">
+                    <a asp-action="servicio_gastos" class="btn btn-outline-secondary">Regresar</a>
+                </div>
+                <div class="col-8">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

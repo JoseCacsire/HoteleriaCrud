@@ -1,0 +1,86 @@
+﻿@model IPagedList<Reservacion>
+
+@{
+    ViewData["Title"] = "ReservacionListado";
+}
+
+<div class="row">
+    <div class="col-6 text-left">
+        <h2 class="my-4 d-block"> RESERVACIONES </h2>
+    </div>
+    <div class="col-6 d-flex align-items-end justify-content-end">
+        <a asp-action="ReservacionGrabar" class="btn btn-primary mb-3">
+            <i class="fa-solid fa-plus"></i> Agregar
+        </a> 
+    </div>
+</div>
+
+<table class="table table-responsive w-100 d-block d-md-table">
+    <thead class="bg-secondary">
+        <tr>
+            <style> th{color:white}</style>
+            <th>
+                ID
+            </th>
+            <th>
+                ENTRADA
+            </th>
+            <th>
+                SALIDA
+            </th>
+            <th>
+                PRECIO
+            </th>
+            <th>
+                HABITACION
+            </th>
+            <th>
+                USUARIO
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdReservacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaEntrada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaSalida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdHabitacionNavigation.NumeroHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsuarioNavigation.Nombre)
+            </td>
+            <td>
+                <a asp-action="ReservacionEditar" asp-route-id="@item.IdReservacion" class="btn btn-warning m-1">
+                    <i class="fa-solid fa-pen-to-square"></i>
+                </a> 
+                <a asp-action="ReservacionDetalles" asp-route-id="@item.IdReservacion" class="btn btn-info m-1">
+                    <i class="fa-solid fa-circle-info"></i>
+                </a> 
+                <a asp-action="ReservacionEliminar" asp-route-id="@item.IdReservacion" class="btn btn-danger m-1">
+                    <i class="fa-solid fa-trash"></i>
+                </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@Html.PagedListPager(Model, page => 
+Url.Action("ReservacionListado",new {page}), new PagedListRenderOptions{
+    PageClasses = new string[] { "page-link" },
+    UlElementClasses = new string[] { "pagination justify-content-center" },
+    LiElementClasses = new string[] { "page-item" },
+    MaximumPageNumbersToDisplay = 15
+})

@@ -1,0 +1,96 @@
+﻿@model IPagedList<Habitacion>
+
+@{
+    ViewData["Title"] = "HabitacionListado";
+}
+<div class="row">
+    <div class="col-6 text-left">
+        <h2 class="my-4 d-block"> HABITACIONES </h2>
+    </div>
+    <div class="col-6 d-flex align-items-end justify-content-end">
+        <a asp-action="HabitacionGrabar" class="btn btn-primary mb-3">
+            <i class="fa-solid fa-plus"></i> Agregar
+        </a> 
+    </div>
+</div>
+
+
+
+<table class="table table-responsive table-hover" id="ejemplo1">
+    <thead class="bg-secondary">
+        <tr>
+            <style> th{color:white}</style>
+            <th>
+                NUMERO
+            </th>
+            <th>
+                PISO
+            </th>
+            <th>
+                DESCRIPCION
+            </th>
+            <th>
+                HORAS
+            </th>
+            <th width="90">
+                DIA
+            </th>
+            <th>
+                ESTADO
+            </th>
+            <th>
+                TIPO
+            </th>
+            <th width="185">
+                ACCIONES
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumeroHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Piso)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Descripcion)
+            </td>
+            <td>
+                $ @Html.DisplayFor(modelItem => item.Precio8Horas)
+            </td>
+            <td>
+                $ @Html.DisplayFor(modelItem => item.PrecioDia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estado)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdTipoHabitacionNavigation.Categoria)
+            </td>
+            <td>
+                <a asp-action="HabitacionEditar" asp-route-id="@item.IdHabitacion" class="btn btn-warning m-1">
+                    <i class="fa-solid fa-pen-to-square"></i>
+                </a> 
+                <a asp-action="HabitacionDetalles" asp-route-id="@item.IdHabitacion" class="btn btn-info m-1">
+                    <i class="fa-solid fa-circle-info"></i>
+                </a> 
+                <a asp-action="HabitacionEliminar" asp-route-id="@item.IdHabitacion" class="btn btn-danger m-1">
+                    <i class="fa-solid fa-trash"></i>
+                </a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+@Html.PagedListPager(Model, page => 
+Url.Action("HabitacionListado",new {page}), new PagedListRenderOptions{
+    PageClasses = new string[] { "page-link" },
+    UlElementClasses = new string[] { "pagination justify-content-center" },
+    LiElementClasses = new string[] { "page-item" },
+    MaximumPageNumbersToDisplay = 15
+})

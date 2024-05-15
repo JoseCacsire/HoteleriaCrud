@@ -1,0 +1,537 @@
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\appsettings.Development.json
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\appsettings.json
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.exe
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.deps.json
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.runtimeconfig.json
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.runtimeconfig.dev.json
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.Views.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.Views.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.AssemblyReference.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.GeneratedMSBuildEditorConfig.editorconfig
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.AssemblyInfoInputs.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.AssemblyInfo.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.CoreCompileInputs.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.MvcApplicationPartsAssemblyInfo.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorAssemblyInfo.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorAssemblyInfo.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\scopedcss\bundle\BD_HOTELERIA.styles.css
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\staticwebassets\BD_HOTELERIA.StaticWebAssets.Manifest.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.TagHelpers.input.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.TagHelpers.output.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorCoreGenerate.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorTargetAssemblyInfo.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorTargetAssemblyInfo.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.Views.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\refint\BD_HOTELERIA.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.genruntimeconfig.cache
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\ref\BD_HOTELERIA.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.CopyComplete
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Humanizer.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionListado.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionGrabar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionEditar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionEliminar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\JetBrains.Annotations.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Mvc.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Razor.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Helpers.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Mvc.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Web.Common.dll
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.MvcApplicationPartsAssemblyInfo.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionDetalles.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioListado.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioDetalles.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioGrabar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioEditar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioEliminar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionListado.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionDetalles.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionGrabar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionEditar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionEliminar.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\HabitacionDetalles.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\servicio_gastos.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\usuario_reservaciones.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\UsuarioDetalles.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\habitaciones_piso_tipo.cshtml.g.cs
+D:\ARCHIVOS\c#\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\reservaciones_caras.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\appsettings.json
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.exe
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.deps.json
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.runtimeconfig.json
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.runtimeconfig.dev.json
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.Views.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.Views.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Humanizer.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Mvc.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Web.Common.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.AssemblyReference.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.AssemblyInfoInputs.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.AssemblyInfo.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.CoreCompileInputs.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorAssemblyInfo.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorAssemblyInfo.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\scopedcss\bundle\BD_HOTELERIA.styles.css
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\staticwebassets\BD_HOTELERIA.StaticWebAssets.Manifest.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.TagHelpers.input.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.TagHelpers.output.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorCoreGenerate.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\HabitacionDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\habitaciones_piso_tipo.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\reservaciones_caras.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\servicio_gastos.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\UsuarioDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\usuario_reservaciones.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionEditar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionEliminar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionGrabar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionListado.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionEditar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionEliminar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionGrabar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionListado.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioEditar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioEliminar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioGrabar.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioListado.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorTargetAssemblyInfo.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorTargetAssemblyInfo.cs
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.Views.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.CopyComplete
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\refint\BD_HOTELERIA.dll
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.pdb
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.genruntimeconfig.cache
+C:\Users\JOSE LUIS\Pictures\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\ref\BD_HOTELERIA.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\appsettings.json
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.exe
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.deps.json
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.runtimeconfig.json
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.runtimeconfig.dev.json
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.Views.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\BD_HOTELERIA.Views.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Humanizer.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\JetBrains.Annotations.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Mvc.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Mvc.Core.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\X.PagedList.Web.Common.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.AssemblyReference.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.AssemblyInfoInputs.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.AssemblyInfo.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.CoreCompileInputs.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorAssemblyInfo.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorAssemblyInfo.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\scopedcss\bundle\BD_HOTELERIA.styles.css
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\staticwebassets\BD_HOTELERIA.StaticWebAssets.Manifest.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.TagHelpers.input.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.TagHelpers.output.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorCoreGenerate.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\HabitacionDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\habitaciones_piso_tipo.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\reservaciones_caras.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\servicio_gastos.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\UsuarioDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Consultas\usuario_reservaciones.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionEditar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionEliminar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionGrabar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Habitacion\HabitacionListado.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionEditar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionEliminar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionGrabar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Reservacion\ReservacionListado.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioDetalles.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioEditar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioEliminar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioGrabar.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Servicio\ServicioListado.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorTargetAssemblyInfo.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.RazorTargetAssemblyInfo.cs
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.Views.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.csproj.CopyComplete
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\refint\BD_HOTELERIA.dll
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.pdb
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\BD_HOTELERIA.genruntimeconfig.cache
+C:\Users\JOSE LUIS\Videos\c#_4ciclo\BD_HOTELERIA\BD_HOTELERIA\obj\Debug\net5.0\ref\BD_HOTELERIA.dll

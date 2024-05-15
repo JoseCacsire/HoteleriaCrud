@@ -1,0 +1,59 @@
+﻿@model BD_HOTELERIA.Models.Reservacion
+
+@{
+    ViewData["Title"] = "ReservacionEditar";
+}
+
+<h1>Reservacion Editar</h1>
+
+<hr />
+<form asp-action="ReservacionEditar" class="row">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <input type="hidden" asp-for="IdReservacion" />
+    <input type="hidden" asp-for="Eliminado" />
+    <div class="form-group col-12">
+        <label asp-for="FechaEntrada" class="control-label">Fecha de Entrada</label>
+        <input asp-for="FechaEntrada" class="form-control" />
+        <span asp-validation-for="FechaEntrada" class="text-danger"></span>
+    </div>
+    <div class="form-group col-12">
+        <label asp-for="FechaSalida" class="control-label">Fecha de Salida</label>
+        <input asp-for="FechaSalida" class="form-control" />
+        <span asp-validation-for="FechaSalida" class="text-danger"></span>
+    </div>
+    <div class="form-group col-12">
+        <label asp-for="Precio" class="control-label">Precio</label>
+        <input asp-for="Precio" class="form-control" />
+        <span asp-validation-for="Precio" class="text-danger"></span>
+    </div>
+    <div class="form-group col-12">
+        <label asp-for="IdHabitacion" class="control-label">Numero Habitacion</label>
+        <select asp-for="IdHabitacion" class="form-control" asp-items="ViewBag.HABITACIONES"></select>
+        <span asp-validation-for="IdHabitacion" class="text-danger"></span>
+    </div>
+    <div class="form-group col-12">
+        <label asp-for="IdUsuario" class="control-label">Cliente</label>
+        <select asp-for="IdUsuario" class="form-control" asp-items="ViewBag.USUARIOS"></select>
+        <span asp-validation-for="IdUsuario" class="text-danger"></span>
+    </div>
+    <div class="form-group col-12">
+        <div class="row">
+            <div class="col-12 d-flex justify-content-between my-2">
+                <a asp-action="ReservacionListado" class="btn btn-outline-secondary">Regresar</a>
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+            </div>
+        </div>
+    </div>
+</form>
+
+<br />
+@if (!(ViewBag.MENSAJE == ""))
+{ 
+        <div class="alert alert-info">
+        @ViewBag.MENSAJE
+        </div>
+}
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

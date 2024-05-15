@@ -1,0 +1,69 @@
+﻿@model BD_HOTELERIA.Models.Reservacion
+
+@{
+    ViewData["Title"] = "ReservacionDetalles";
+}
+
+<h1>Reservacion Detalles</h1>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-4">
+            ID RESERVACION :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdReservacion)
+        </dd>
+        <dt class = "col-sm-4">
+            Eliminado :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Eliminado)
+        </dd>
+        <dt class = "col-sm-4">
+            Fecha de Entrada :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.FechaEntrada)
+        </dd>
+        <dt class = "col-sm-4">
+            Fecha de Salida :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.FechaSalida)
+        </dd>
+        <dt class = "col-sm-4">
+            Precio :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.Precio)
+        </dd>
+        <dt class = "col-sm-4">
+            N° Habitacion :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdHabitacionNavigation.NumeroHabitacion)
+        </dd class>
+        <dt class = "col-sm-4">
+            Cliente :
+        </dt>
+        <dd class = "col-sm-8">
+            @Html.DisplayFor(model => model.IdUsuarioNavigation.Nombre)
+        </dd class>
+    </dl>
+    <div class="row">
+        <div class="form-group col-12">
+            <div class="row">
+                <div class="col-4">
+                    <a asp-action="ReservacionListado" class="btn btn-outline-secondary">Regresar</a>
+                </div>
+                <div class="col-8">
+                    <a asp-action="ReservacionEditar" asp-route-id="@Model.IdReservacion" class="btn btn-warning">
+                        <strong>Editar</strong> 
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

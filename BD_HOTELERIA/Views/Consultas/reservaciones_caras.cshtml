@@ -1,0 +1,83 @@
+﻿@model IEnumerable<BD_HOTELERIA.Models.reservaciones_caras>
+
+@{
+    ViewData["Title"] = "reservaciones_caras";
+}
+
+<h2 class="mt-5">RESERVACIONES CARAS</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="row py-3 text-left">
+        <div class="col-md-3 d-flex align-items-center justify-content-start">
+            Seleccione una Categoria : 
+        </div>
+        <div class="col-md-2 d-flex align-items-center justify-content-center">
+            @Html.DropDownList("idTipoHabitacion",(SelectList)ViewBag.LISTA_TIPOHABITACIONES, new {@class="form-control"})
+        </div>
+        <div class="col-md-2 d-flex align-items-center justify-content-start">
+            Precio mayor a : 
+        </div>
+        <div class="col-md-2 d-flex align-items-center justify-content-center">
+            <input type="number" name="precio" class="form-control">  
+        </div>
+        <div class="col-md-3 d-flex align-items-center justify-content-end">
+            <button type="submit" class="btn btn-primary">
+                Consultar
+            </button>
+        </div>
+    </div>
+}
+<table class="table">
+    <thead class="bg-secondary">
+        <style>th{color:white}</style>
+        <tr>
+            <th>
+                ID
+            </th>
+            <th>
+                ENTRADA
+            </th>
+            <th>
+                SALIDA
+            </th>
+            <th>
+                PRECIO
+            </th>
+            <th>
+                N° HABITACION
+            </th>
+            <th>
+                CLIENTE
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.idReservacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fechaEntrada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.fechaSalida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.numeroHabitacion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div class="alert alert-warning">
+    Cantidad de Registros : @ViewBag.TOTAL
+</div>
